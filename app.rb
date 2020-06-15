@@ -11,7 +11,7 @@ class App < Sinatra::Base
   end
 
   get '/favorite-song' do
-    "My favorite song is Last Resort by Papa Roach"
+    "My favorite song is silence"
   end
 
 
